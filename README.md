@@ -145,12 +145,3 @@
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=ms584&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   </a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/ms584/Simple-To-Do-List-Manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ms584&repo=Simple-To-Do-List-Manager&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-  </a>
-  <a href="https://github.com/ms584/To-Do-list-manager_FInalProject">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ms584&repo=To-Do-list-manager_FInalProject&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-  </a>
-</p>
