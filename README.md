@@ -154,14 +154,3 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ms584&repo=To-Do-list-manager_FInalProject&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   </a>
 </p>
-
-## Certificate: [CP352301: Script Programming I] Python Essentials 1
-
-<p align="center"><img width="620" height="420" alt="Image" src="https://github.com/user-attachments/assets/96131c93-8d65-4984-9e19-3cb9e77e8cfc" /></p>
-
-## Codecademy Progress: Python3 
-
-<p align="center"><img width="620" height="300" alt="Image" src="https://github.com/user-attachments/assets/96cfd6e1-6785-4242-a5ef-64397dc02904" /></p>
-Note: with the 7-day free plan so i can’t finish this 🤣
-
-
