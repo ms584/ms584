@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ms584&label=Profile%20views&color=0e75b6&style=flat" alt="ms584" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ms584" alt="ms584" /></a> </p>
+[My Github Profile](https://ms584.github.io/)
 
 - 🔭 I’m currently working on [Sleeping](https://www.google.com/search?q=sleeping+activity)
 
