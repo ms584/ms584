@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **To Love Her Gently**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ms584](https://github.com/ms584)
+- 👨‍💻 All of my projects are available at [https://github.com/ms584](https://github.com/ms584) also here [ms584.github.io](https://ms584.github.io/)
 
 - 📫 How to reach me **sitthichok.m@kkumail.com**
 
