@@ -5,6 +5,8 @@
 
 [My Github Profile](https://ms584.github.io/)
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31usd3i7hlbewy3truinr3frc654&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
+
 - 🔭 I’m currently working on [Sleeping](https://www.google.com/search?q=sleeping+activity)
 
 - 🌱 I’m currently learning **To Love Her Gently**
