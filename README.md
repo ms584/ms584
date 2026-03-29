@@ -7,7 +7,11 @@
 
 [![💬 Open ChatMe — ms584](https://img.shields.io/badge/%F0%9F%92%AC%20Open%20ChatMe-ms584-6C63FF?style=for-the-badge)](https://chatme-t2ke.onrender.com)
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31usd3i7hlbewy3truinr3frc654&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31usd3i7hlbewy3truinr3frc654&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
+  </a>
+</p>
 
 - 🔭 I’m currently working on [Sleeping](https://www.google.com/search?q=sleeping+activity)
 
