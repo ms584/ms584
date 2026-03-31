@@ -74,7 +74,6 @@
   <img src="https://raw.githubusercontent.com/quantumlib/Cirq/master/docs/images/Cirq_logo_notext.svg" width="40"/>
 </p>
 
-
 ## GitHub Stats  
 
 <p align="center">
